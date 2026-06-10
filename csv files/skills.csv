@@ -1,0 +1,506 @@
+﻿skill_id,skill_name,sp_cost,skill_type_id,power,attribute_id,inheritable,skill_description
+1,Acceleration Boost,6,1,0,1,Yes,Doubles damage output in the next turn.
+2,Adhesive Bubble Blow,2,2,25,2,No,Physical attack
+3,Agility Charge,6,1,0,1,Yes,Increases EVA of one battle member by 10%.
+4,Aguichant Levres,40,3,0,3,No,INT-penetrating strong Light attack on one foe. Absorbs 50% of the damage as HP.
+5,Air Bubbles,2,3,30,4,No,Magic attack
+6,Air Shot,5,3,50,5,No,Magic attack
+7,Ambush Crunch,10,2,90,1,No,Physical attack
+8,Amethyst Mandala,20,3,70,3,No,Magic attack
+9,Animal Nail,15,2,115,6,No,Physical attack
+10,Anti-Bug,4,1,0,1,Yes,Recover Bug from one party member and restore some HP.
+11,Anti-Panic,4,1,0,1,Yes,Recover Panic from one party member and restore some HP.
+12,Anti-Paralysis,4,1,0,1,Yes,Recover Paralyze from one party member and restore some HP.
+13,Anti-Poison,4,1,0,1,Yes,Recover Poison from one party member and restore some HP.
+14,Anti-Sleep,4,1,0,1,Yes,Recover Sleep from one party member and restore some HP.
+15,Anti-Stun,4,1,0,1,Yes,Recover Stun from one party member and restore some HP.
+16,Antidote,4,1,0,1,Yes,Recover Dot from one party member and restore some HP.
+17,Arctic Blizzard,20,2,125,4,No,Physical attack
+18,Atomic Blaster,15,2,250,7,No,Physical attack
+19,Atomic Ray,20,2,125,7,No,Physical attack
+20,Attack Break,6,1,0,1,Yes,Reduces ATK of one enemy by 10%.
+21,Attack Break Field,20,1,0,1,Yes,Reduces ATK of all enemies by 10%.
+22,Attack Charge,6,1,0,1,Yes,Increases ATK of one member by 10%.
+23,Attack Charge Field,20,1,0,1,Yes,Increases ATK of all battle members by 10%.
+24,Aura,10,1,0,1,Yes,Restores a little HP for all party members.
+25,Aurora Blaster,25,3,120,3,No,Magic attack
+26,Aurora Undulation,20,3,80,3,No,Magic Attack
+27,Awesome Quake I,4,2,30,6,Yes,Physical attack
+28,Awesome Quake II,7,2,45,6,Yes,Physical attack
+29,Awesome Quake III,10,2,75,6,Yes,Physical attack
+30,Baby Breath,5,2,75,8,No,Physical attack
+31,Banana Slip,20,3,115,9,No,Magic attack
+32,Bantyo Blade,20,2,150,1,No,Physical attack
+33,Berserk Sword,15,4,0,1,No,Inflict Death on one enemy. 30% accuracy.
+34,Bifrost,25,3,120,3,No,Magic attack
+35,Big Bang Voice,30,2,0,1,No,DEF-penetrating medium Neutral attack on all foes. 20% chance of inflicting Paralysis.
+36,Bit Fire,10,2,30,8,No,3 physical attacks
+37,Bite,2,2,40,1,No,Physical attack
+38,Biting Crush,25,2,145,4,No,Physical attack
+39,Black Aura Blast,25,3,110,9,No,Magic attack
+40,Black Aura Blast,25,3,110,9,No,Magic attack
+41,Black Pearl Blast,5,3,25,4,No,Magic attack
+42,Black Rain,25,2,110,9,No,Physical attack
+43,Black Tornado,35,2,0,9,No,DEF-penetrating extra strong Dark attack on one foe.
+44,Blade of the Dragon King,25,2,150,3,No,Physical attack
+45,Blade of the Dragon King,25,2,120,3,No,Physical attack
+46,Blaze Sonic Breath,15,2,100,8,No,Physical attack
+47,Blazing Ice,5,3,60,4,No,Magic attack
+48,Blinded,15,2,115,1,No,Physical attack
+49,Blinding Ray,5,3,65,3,No,Magic attack
+50,Blue Blaster,5,2,65,8,No,Physical attack
+51,Blue Flare Breath,10,2,85,8,No,Physical attack
+52,Brain Rupture,20,3,115,7,No,Magic attack
+53,Branch Drain,10,2,75,2,No,Physical attack
+54,Brave Metal,20,2,200,9,No,Physical attack
+55,Breath of the Gods,10,1,0,1,No,Nullifies any damage received until next turn.
+56,Bubble Blow,2,3,30,4,No,Magic attack
+57,Bubbles,2,3,30,4,No,Magic attack
+58,Bunny Blades,15,2,55,5,No,2 physical attacks
+59,Burning Fist,10,2,80,8,No,Physical attack
+60,Burst Flame I,3,3,55,8,Yes,Magic attack
+61,Burst Flame II,6,3,75,8,Yes,Magic attack
+62,Burst Flame III,9,3,95,8,Yes,Magic attack
+63,Burst Shot,20,2,50,8,No,2 physical attacks
+64,Catastrophe Cannon,20,2,80,8,No,3 physical attacks
+65,Celestial Arrow,15,3,100,3,No,Magic attack
+66,Celestial Blade,20,3,90,7,No,Magic attack
+67,Celestial Blade,30,2,110,3,No,Physical attack
+68,Chain Loss,8,1,0,1,Yes,Reduce COMBO for one enemy by 100%.
+69,Chain Max,8,1,0,1,Yes,Increase COMBO for one member by 100%.
+70,Chain Minus,4,1,0,1,Yes,Reduce COMBO for one enemy by 50%.
+71,Chain Plus,4,1,0,1,Yes,Increase COMBO for one member by 50%.
+72,Chaos Degradation,25,4,0,1,No,Reduces HP of all foes by 25%.
+73,Character Reversal,10,3,30,1,Yes,Magic attack
+74,Cheese Bomb,5,2,70,8,No,Physical attack
+75,Cherry Bomb,15,2,65,2,No,Physical attack
+76,Chrono Breaker,10,5,0,1,No,Fixed damage of 150 to one foe. 30% chance of reducing target's SPD by 10%.
+77,Cog Crusher,5,2,70,9,No,Physical attack
+78,Cold Flame,15,2,100,8,No,Physical attack
+79,Comet Hammer I,3,2,65,6,Yes,Physical attack
+80,Comet Hammer II,6,2,85,6,Yes,Physical attack
+81,Comet Hammer III,9,2,105,6,Yes,Physical attack
+82,Corona Blaster,15,2,30,8,No,3-6 physical attacks
+83,Corona Destroyer,40,2,0,9,No,DEF-penetrating strong Dark attack on one foe. Absorbs 20% of the damage as HP.
+84,Crazy Giggle,5,2,75,9,No,Physical attack
+85,Crescent Leaf I,3,2,65,2,Yes,Physical attack
+86,Crescent Leaf II,6,2,85,2,Yes,Physical attack
+87,Crescent Leaf III,9,2,105,2,Yes,Physical attack
+88,Crimson Curse,10,2,45,8,No,Physical attack
+89,Critical Charge,6,1,0,1,Yes,Increases CRIT of one battle member by 10%.
+90,Cross Blade,15,2,110,3,No,Physical attack
+91,Cross-Counter,6,1,0,1,Yes,Counterattacks the enemy when you receive a physical attack.
+92,Crystal Cloud,10,3,30,4,No,Magic attack
+93,Crystal Revolution,25,3,90,4,No,Magic attack
+94,D-Grenade,10,2,40,8,No,Physical attack
+95,Dark Prominence,40,3,0,9,No,INT-penetrating extra strong Dark attack on one foe. 50% chance of inflicting Crystallization.
+96,Dark Pupil,15,2,110,9,No,Physical attack
+97,Dark Roar,15,2,130,9,No,Physical attack
+98,Dark Terra Force,20,2,100,9,No,Physical attack
+99,Darkness Wave,15,3,35,9,No,2 magic attacks
+100,Darkness Zone,40,5,0,1,No,Fixed damage of 444 to all foes.
+101,Data Crusher,10,2,90,9,No,Physical attack
+102,Data Drain,5,2,35,9,No,Physical attack
+103,Dead or Alive,25,3,130,1,No,Magic attack
+104,Death Charm,10,4,0,1,No,Reduce 10% HP from one enemy.
+105,Death Claw,10,5,0,1,No,Fixed damage of 200 to one foe. Absorbs 20% of the damage as HP.
+106,Death Parade Blaster,15,2,40,3,No,2 physical attacks
+107,Demi Darts,5,2,20,9,No,Physical attack
+108,Demonic Disaster,25,2,140,9,No,Physical attack
+109,Desolation Claw,15,2,115,1,No,Physical attack
+110,Destroyed Hook,35,2,0,7,No,DEF-penetrating strong Electric attack on one foe. 80% accuracy. Inflicts poison.
+111,Destroyed Rush,20,2,25,6,No,5 physical attacks
+112,Destruction,10,2,40,9,Yes,Physical attack
+113,Destruction Cannon I,3,2,65,9,Yes,Physical attack
+114,Destruction Cannon II,6,2,85,9,Yes,Physical attack
+115,Destruction Cannon III,9,2,105,9,Yes,Physical attack
+116,Destruction Crush,20,3,80,6,No,Magic attack
+117,Diamond Shell,5,2,60,6,No,Physical attack
+118,Diamond Storm,5,3,25,2,No,Magic attack
+119,Digital Bomb,15,3,80,8,No,Magic attack
+120,Dimension Scissor,35,2,0,2,No,DEF-penetrating strong Plant attack on one foe. Tends to critical more often.
+121,Disaster Blaster,15,3,65,3,No,Magic attack
+122,Dispel,25,1,0,1,Yes,Remove basic debuffs from one party member and restore some HP.
+123,Divine Atonement,50,3,200,3,No,Magic attack
+124,Divine Dragon Slash,35,2,0,1,No,DEF-penetrating strong Neutral attack on one foe. Increases SPD by 10%.
+125,Divine Pierce,5,3,65,3,No,Magic attack
+126,Divine Pierce (Awake),20,3,90,3,No,Magic attack
+127,Dot Matrix,35,2,0,1,No,DEF-penetrating strong Neutral attack on one foe. Absorbs 30% of the damage as HP.
+128,Double Backhand,5,2,20,1,No,2 physical attacks
+129,Double Impact,25,2,20,9,No,8 physical attacks
+130,Double Scissor Claw,30,2,0,1,No,DEF-penetrating strong Neutral attack on one foe.
+131,Dragon Impulse,15,2,250,5,No,Physical attack
+132,Dragon's Roar,25,2,60,8,No,2 physical attacks
+133,Dragonic Impact,50,2,100,8,No,Physical attack
+134,Dumdum Uppercut,10,2,90,1,No,Physical attack
+135,Earth-Shattering Stomp,15,2,30,9,No,3-5 physical attacks
+136,Eden's Javelin,20,3,120,3,No,Magic attack
+137,Eiseiryuoujin,35,2,0,7,No,DEF-penetrating strong Electric attack on one foe. Tends to critical hit more often.
+138,Elastic Bubbles,2,3,30,4,No,Magic attack
+139,Electric Shock,5,3,55,7,No,Magic attack
+140,Electric Stun Blast,5,2,65,7,No,Physical attack
+141,Electro Shocker,10,3,80,7,No,Magic attack
+142,Energy Bomb,15,3,100,7,No,Magic attack
+143,Escape Dash,0,1,0,1,Yes,Flee from a battle.
+144,Eternal Nightmare,50,3,0,9,No,INT-penetrating medium Dark attack on all foes. 50% chance of putting target to sleep.
+145,Exhaust Flame,10,2,85,8,No,Physical attack
+146,Extinction Wave,25,3,80,3,No,Magic attack
+147,Extinction Wave,25,3,80,3,No,Magic attack
+148,Eye of Nightmares,5,3,50,9,No,Magic attack
+149,Eye of the Gorgon,20,1,0,1,No,Decreases one foe's DEF by 30% and inflicts Confusion.
+150,Fang Strike,10,2,90,8,No,Physical attack
+151,Feather Slash,10,2,0,5,No,DEF-penetrating medium Wind attack on one foe.
+152,Fenrir Sword,15,2,130,4,No,Physical attack
+153,Fiery Fastball,5,2,70,8,No,Physical attack
+154,Fif Cross,10,2,55,6,No,2 physical attacks
+155,Fifth Rush,5,2,20,6,No,5 physical attacks
+156,Final Aura,40,1,0,1,Yes,Restores a lot of HP for all party members.
+157,Final Heal,16,1,0,1,Yes,Restores a lot of HP for one party member.
+158,Final Shining Burst,50,2,200,8,No,Physical attack
+159,Fire Breath,10,2,90,8,No,Physical attack
+160,Fire Tornado,20,3,95,3,No,Magic attack
+161,Firedrake Strike,25,2,140,8,No,Physical attack
+162,Fist of Athena,40,2,0,8,No,DEF-penetrating extra strong Fire attack on one foe. 30% chance of stunning target.
+163,Fist of Athena,40,2,0,8,No,DEF-penetrating extra strong Fire attack on one foe.
+164,Fist of Ice,15,2,110,4,No,Physical attack
+165,Fist of the Beast King,10,2,95,6,No,Physical attack
+166,Flame Cannon,20,2,100,8,No,Physical attack
+167,Flame Inferno,25,3,90,8,No,Magic attack
+168,Flaming Fist,10,2,70,8,No,Physical attack
+169,Flashy Boss Punch,20,2,130,3,No,Physical attack
+170,Flower Cannon,15,3,105,2,No,Magic attack
+171,Flying Kick,10,2,95,2,No,Physical attack
+172,Forbidden Trident,15,2,115,4,No,Physical attack
+173,Fossil Bite,10,2,30,4,No,3 physical attacks
+174,Fox Fire,10,2,85,8,No,Physical attack
+175,Fox Tail,2,2,35,3,No,Physical attack
+176,Freeze Fang,10,2,85,4,No,Physical attack
+177,Freezing Breath,20,3,120,4,No,Magic attack
+178,Frozen Claw,20,2,0,4,No,DEF-penetrating medium Water attack on one foe.
+179,Full Moon Blaster,20,2,135,3,No,Physical attack
+180,Full Moon Kick,15,2,110,6,No,Physical attack
+181,Full Moon Meteor Impact,20,2,120,3,No,Physical attack
+182,Fungus Crusher,10,2,60,2,No,Physical attack
+183,Fury Fire,10,2,40,3,No,Two physical attacks
+184,Fury Fire (Awake),20,2,60,3,No,2 physical attacks
+185,Gaia Element I,3,3,55,2,Yes,Magic attack
+186,Gaia Element II,6,3,75,2,Yes,Magic attack
+187,Gaia Element III,9,3,95,2,Yes,Magic attack
+188,Galactic Flare,15,3,55,1,No,Magic attack
+189,Gale Storm I,4,2,30,5,Yes,Physical attack
+190,Gale Storm II,7,2,45,5,Yes,Physical attack
+191,Gale Storm III,10,2,75,5,Yes,Physical attack
+192,Garuru Tomahawk,20,2,140,1,No,Physical attack
+193,Gear Stringer,5,2,25,7,No,3 physical attacks
+194,Genocidal Gears,15,2,60,8,No,Physical attack
+195,Genocide Attack,15,2,110,8,No,Physical attack
+196,GeoGrey Sword,20,2,130,8,No,Physical attack
+197,Gift of Darkness,40,2,0,9,No,DEF-penetrating extra strong Dark attack on one foe.
+198,Giga Blaster,20,3,130,7,No,Magic attack
+199,Giga Destroyer,15,2,115,8,No,Physical attack
+200,Glare Eye,2,3,30,9,No,Magic attack
+201,Glide Horn,10,2,85,5,No,Physical attack
+202,Goblin Strike,5,2,65,8,No,Physical attack
+203,God Flame,20,2,100,3,No,Physical attack
+204,God Matrix,50,2,0,1,No,DEF-penetrating strong Neutral attack on all foes. Absorbs 10% damage as HP.
+205,Golden Rush,10,2,10,3,No,2 physical attacks
+206,Golden Triangle,20,3,110,3,No,Magic attack
+207,Golden Triangle I,15,3,90,7,No,Magic attack
+208,Good Night Moon,20,3,120,3,No,Magic attack
+209,Grand Cross,30,2,0,3,No,INT-penetrating medium Light attack on all foes.
+210,Grand Rock I,3,3,55,6,Yes,Magic attack
+211,Grand Rock II,6,3,75,6,Yes,Magic attack
+212,Grand Rock III,9,3,95,6,Yes,Magic attack
+213,Great Tornado,35,2,0,1,No,DEF-penetrating strong Neutral attack on one foe.
+214,Great Weight,10,2,85,6,No,Physical attack
+215,Green Flare Breath,20,2,0,8,No,DEF-penetrating medium Fire attack on one foe. Tends to critical more often.
+216,Guard Break,6,1,0,1,Yes,Reduces DEF of one enemy by 10%.
+217,Guard Break Field,20,1,0,1,Yes,Reduces DEF of all enemies by 10%.
+218,Guard Charge,6,1,0,1,Yes,Increases DEF of one member by 10%.
+219,Guard Charge Field,20,1,0,1,Yes,Increases DEF of all battle members by 10%.
+220,Hard Rock Spirit,20,2,65,8,No,2 physical attacks
+221,Harpoon Torpedo,10,2,90,8,No,Physical attack
+222,Heal,4,1,0,1,Yes,Restores a little HP for one party member.
+223,Hearts Attack,20,1,0,1,No,Heals one ally's HP and increases ATK
+224,Heat Wave,15,3,75,8,No,Magic attack
+225,Heaven's Gate,15,3,100,3,No,Magic attack
+226,Heaven's Judgment,20,3,90,3,No,Magic attack
+227,Heaven's Knuckle,10,2,80,3,No,Physical attack
+228,Heaven's Thunder,25,3,20,7,No,8 magic attacks
+229,Heaven's Thunder I,3,3,55,10,Yes,Magic attack
+230,Heaven's Thunder II,6,3,75,10,Yes,Magic attack
+231,Heaven's Thunder III,9,3,95,10,Yes,Magic attack
+232,Heavy Metal Fire,15,2,110,8,No,Physical attack
+233,Heavy Strike I,3,2,70,1,Yes,Physical attack
+234,Heavy Strike II,6,2,90,1,Yes,Physical attack
+235,Heavy Strike III,9,2,110,1,Yes,Physical attack
+236,Hell Crusher I,4,3,20,9,Yes,Magic attack
+237,Hell Crusher II,7,3,35,9,Yes,Magic attack
+238,Hell Crusher III,10,3,65,9,Yes,Magic attack
+239,Hell Masquerade,15,2,35,2,No,3 physical attacks
+240,Hit Charge,6,1,0,1,Yes,Increases ACC of one battle member by 10%.
+241,Holy Light I,3,3,55,3,Yes,Magic attack
+242,Holy Light II,6,3,75,3,Yes,Magic attack
+243,Holy Light III,9,3,95,3,Yes,Magic attack
+244,Holy Shot,10,3,75,3,No,Magic attack
+245,Horn Buster,30,3,0,7,No,INT-penetrating strong Electric attack on one foe.
+246,Howling Crusher,20,2,65,6,No,2 physical attacks
+247,Hydro Water I,3,3,55,4,Yes,Magic attack
+248,Hydro Water II,6,3,75,4,Yes,Magic attack
+249,Hydro Water III,9,3,95,4,Yes,Magic attack
+250,Hyper Cannon,10,2,200,8,No,Physical attack
+251,Hyper Heat,10,2,85,8,No,Physical attack
+252,Hyper Infinity Cannon,25,2,115,7,No,Physical attack
+253,Hyper Smell,10,2,70,6,No,Physical attack
+254,Ice Archery I,3,2,65,4,Yes,Physical attack
+255,Ice Archery II,6,2,85,4,Yes,Physical attack
+256,Ice Archery III,9,2,105,4,Yes,Physical attack
+257,Ice Blast,10,3,75,4,No,Magic attack
+258,Ice Wolf Claw,20,2,45,4,No,2 physical attacks
+259,Iceball Bomb,10,2,80,4,No,Physical attack
+260,Idle Bubble,10,3,30,4,Yes,Magic attack
+261,Infinity Cannon,20,2,115,7,No,Physical attack
+262,Infinity Dream,30,1,0,1,No,Has a 50% chance to inflict Poison
+263,Judecca Prison,25,3,115,9,No,Magic attack
+264,Judgement of the Blade,25,2,30,1,No,5 physical attacks
+265,Justice Kick,20,2,130,1,No,Physical attack
+266,Katana Attack,10,2,0,1,No,DEF-penetrating medium Neutral attack on one foe.
+267,Knuckle Beater,5,2,75,1,No,Physical attack
+268,Kunai Wing,10,2,30,5,No,3 physical attacks
+269,Legendary Dragon Blade,30,2,0,6,No,DEF-penetrating strong Earth attack on one foe.
+270,Lightning Javelin,15,3,105,7,No,Magic attack
+271,Lightning Joust,25,2,140,3,No,Physical attack
+272,Lightning Joust,25,2,135,3,No,Physical attack
+273,Lightning Paw,10,5,0,1,No,Fixed damage of 150 to one foe. 60% chance of confusing target.
+274,Lightning Spear,40,3,0,7,No,INT-penetrating strong Electric attack on one foe. Tends to critical more often.
+275,Lila Shower,15,3,60,2,No,Magic attack
+276,Little Horn,5,2,70,1,No,Physical attack
+277,Love Serenade,30,3,0,9,No,INT-penetrating medium Dark attack on all foes. 15% chance of paralyzing target.
+278,Lullaby Bubble,5,3,55,4,No,Magic attack
+279,Lunatic Dance,15,2,100,4,No,Physical attack
+280,Mach Rush I,4,2,35,1,Yes,Physical attack
+281,Mach Rush II,7,2,50,1,Yes,Physical attack
+282,Mach Rush III,10,2,80,1,Yes,Physical attack
+283,Mach Stinger V,20,2,20,7,No,6 physical attacks
+284,Machinegun Destroyer,20,2,150,8,No,Physical attack
+285,Marching Fishes,5,2,15,4,No,1-3 physical attacks
+286,Mature Poop,10,2,75,6,No,Physical attack
+287,Mega Burst,10,2,45,8,No,Physical attack
+288,Mega Flame,10,2,95,8,No,Physical attack
+289,Megadeath,20,3,95,9,No,Magic attack
+290,Megiddo Flame,20,2,130,8,No,Physical attack
+291,Mental Break,6,1,0,1,Yes,Reduces INT of one enemy by 10%.
+292,Mental Break Field,20,1,0,1,Yes,Reduces INT of all enemies by 10%.
+293,Mental Charge,6,1,0,1,Yes,Increases INT of one member by 10%.
+294,Mental Charge Field,20,1,0,1,Yes,Increases INT of all battle members by 10%.
+295,Metal Armor Blade,20,2,0,1,No,DEF-penetrating medium Neutral attack on one foe. Tends to critical hit more often.
+296,Metal Cannon,5,2,70,1,No,Physical attack
+297,Metal Meteor,15,2,115,6,No,Physical attack
+298,Meteor Fall I,4,2,30,8,Yes,Physical attack
+299,Meteor Fall II,7,2,45,8,Yes,Physical attack
+300,Meteor Fall III,10,2,75,8,Yes,Physical attack
+301,Meteor Shower,10,2,40,1,No,Physical attack
+302,Meteor Wing,10,3,25,8,No,Magic attack
+303,Miracle Bomb,15,2,130,8,No,Physical attack
+304,Mirror Reflection,6,1,0,1,Yes,Counterattacks the enemy when you receive a magic attack.
+305,Monkey Wrench,40,1,0,1,No,Reduces all stats of one foe by 30% and decreases combo rate.
+306,Moon Night Bomb,10,3,60,4,No,Magic attack
+307,Mourning Dance,20,2,20,9,No,8 physical attacks
+308,Musical Fist,30,3,0,1,No,INT-penetrating medium Neutral attack on all foes with 10% chance of reducing ATK/INT by 10%.
+309,Nail Bone,15,4,0,1,No,Reduce HP of one foe by 20%. 50% chance of crystallizing target.
+310,Nail Scratch,2,2,40,9,No,Physical attack
+311,Nanomachine Break I,3,2,65,10,Yes,Physical attack
+312,Nanomachine Break II,6,2,85,10,Yes,Physical attack
+313,Nanomachine Break III,9,2,105,10,Yes,Physical attack
+314,Needle Spray,10,2,40,2,No,Physical attack
+315,Night Raid,15,3,65,9,No,Magic attack
+316,Nightmare I,3,3,55,9,Yes,Magic attack
+317,Nightmare II,6,3,75,9,Yes,Magic attack
+318,Nightmare III,9,3,95,9,Yes,Magic attack
+319,Nightmare Syndrome,15,3,0,1,No,Reduce 15% HP from one enemy. 20% chance of putting target to sleep.
+320,Ninja Blade,5,2,35,5,No,Physical attack
+321,Ninja Claw,10,2,30,1,No,3 physical attacks
+322,Nitro Stinger,30,2,0,7,No,DEF-penetrating strong Electric attack on one foe.
+323,Nuclear Laser,30,2,0,7,No,DEF-penetrating medium Electric attack on one foe. Increases DEF by 10%.
+324,Oblivion Bird,15,2,110,8,No,Physical attack
+325,Ocean Love,20,1,0,1,No,Restore HP to all battle members and recover all status effects.
+326,Ocean Wave I,4,3,20,4,Yes,Magic attack
+327,Ocean Wave II,7,3,35,4,Yes,Magic attack
+328,Ocean Wave III,10,3,65,4,Yes,Magic attack
+329,Odin's Breath,25,2,105,4,No,Physical attack
+330,Omni Sword,30,2,150,3,No,Physical attack
+331,Pandemonium Lost,25,3,80,9,No,Magic attack
+332,Pandora Dialogue,15,3,0,1,No,Reduces HP of all foes by 20%. Receive damage equal to 10% of HP from recoil.
+333,Panic Wisp,10,3,30,8,Yes,Magic attack
+334,Pendragon's Glory,25,2,145,7,No,Physical attack
+335,Pepper Breath,5,2,70,8,No,Physical attack
+336,Perfect Revival,60,1,0,1,Yes,Revive all fallen party members with full HP.
+337,Phantom Pain,50,3,0,9,No,INT-penetrating extra strong Dark attack on one foe. 35% chance of poisoning target.
+338,Physical Drain,3,2,50,1,Yes,Physical attack
+339,Pit Bomb,15,3,105,8,No,Magic attack
+340,Plasma Shot,25,2,35,8,No,3 physical attacks
+341,Plastic Blaze,5,2,60,8,No,Physical attack
+342,Platinum Junk,20,2,35,6,No,4 physical attacks
+343,Poison Bubbles,2,3,25,9,No,Magic attack
+344,Poison Ivy,5,2,65,2,No,Physical attack
+345,Poop,10,2,75,6,No,Physical attack
+346,Poop Dunk,10,2,80,6,No,Physical attack
+347,Poop Toss,10,2,75,6,No,Physical attack
+348,Positron Laser,20,2,150,3,No,Physical attack
+349,Power Energy I,3,3,60,1,Yes,Magic attack
+350,Power Energy II,6,3,80,1,Yes,Magic attack
+351,Power Energy III,9,3,100,1,Yes,Magic attack
+352,Power Metal,10,2,90,1,No,Physical attack
+353,Prison Fist,10,2,20,9,No,3-5 physical attacks
+354,Protect Wave,30,1,0,1,No,Prevents any abnormal statuses in all allies.
+355,Protect Wave (Awake),99,1,0,1,No,Nullifies damage received to all allies until next turn and prevents any abnormal statuses.
+356,Pummel Whack,10,2,90,9,No,Physical attack
+357,Puppet Pummel,20,2,125,6,No,Physical attack
+358,Puppy Howl,10,3,0,3,No,INT-penetrating medium Light attack on one foe. 10% chance of paralyzing target.
+359,Pyro Punch,10,2,45,8,No,2 physical attacks
+360,Quake!Blast!Fire!Father!,25,2,35,8,No,4 physical attacks
+361,Quo Vadis,40,2,0,3,No,DEF-penetrating strong Light attack on one foe. Always hits. 10% chance of Instant Death.
+362,Rare Metal Poop,10,2,80,6,No,Physical attack
+363,Razor Wind,10,2,30,1,No,2-4 physical attacks
+364,Restore,25,1,0,1,Yes,Remove all status effects from one party member and restore some HP.
+365,Revenge Flame,15,4,0,1,No,Counterattack the enemy when you receive a physical or magic attack.
+366,Revive,30,1,0,1,Yes,Revive one fallen party member with 50% HP.
+367,Ripping Net,10,2,40,10,Yes,Physical attack
+368,River of Power,20,3,130,4,No,Magic attack
+369,Rock Breaker,5,2,70,6,No,Physical attack
+370,Rock Fist,5,2,65,6,No,Physical attack
+371,Rune Forest I,4,3,20,2,Yes,Magic attack
+372,Rune Forest II,7,3,35,2,Yes,Magic attack
+373,Rune Forest III,10,3,65,2,Yes,Magic attack
+374,S-Gold Solar Storm,25,3,75,3,No,Magic attack
+375,Safety Guard,32,1,0,1,Yes,Make one member endure all attacks that could kill you once.
+376,Saint Knuckle I,3,2,65,3,Yes,Physical attack
+377,Saint Knuckle II,6,2,85,3,Yes,Physical attack
+378,Saint Knuckle III,9,2,105,3,Yes,Physical attack
+379,Savage Emperor,15,3,105,3,No,Magic attack
+380,Scissor Claw,20,2,0,1,No,DEF-penetrating medium Neutral attack on one foe.
+381,Scrapless Claw,15,2,110,6,No,Physical attack
+382,Seed Blast,5,2,15,2,No,2 physical attacks
+383,Seven's Fantasia,20,3,75,3,No,Magic attack
+384,Shadow Wing,15,3,65,8,No,Magic attack
+385,Shield of the Just,25,3,115,3,No,Magic attack
+386,Shield of the Just,25,3,110,3,No,Magic attack
+387,Shine of Bee,35,2,0,8,No,DEF-penetrating strong Fire attack on all foes. Cannot move from recoil for one turn.
+388,Shining Laser I,4,3,20,3,Yes,Magic attack
+389,Shining Laser II,7,3,35,3,Yes,Magic attack
+390,Shining Laser III,10,3,65,3,Yes,Magic attack
+391,Shiny Ring,5,2,70,3,No,Physical attack
+392,Shock,10,2,40,6,Yes,Physical attack
+393,Silent Bullet,10,2,15,9,No,2-4 physical attacks
+394,Silent Bullet (Awake),20,2,30,9,No,2-4 physical attacks
+395,Sludge,10,2,40,6,No,Physical attack
+396,Smile Bomber,15,2,110,8,No,Physical attack
+397,Smile Fang,2,2,40,1,No,Physical attack
+398,Smile Warhead,20,2,110,1,No,Physical attack
+399,Soap Flower,2,3,30,4,No,Magic attack
+400,Sonic Void I,3,3,55,5,Yes,Magic attack
+401,Sonic Void II,6,3,75,5,Yes,Magic attack
+402,Sonic Void III,9,3,95,5,Yes,Magic attack
+403,Sorrow Blue,40,3,0,4,No,INT-penetrating medium Water attack on all foes. 25% chance of putting target to sleep.
+404,Soul Absorption,5,2,70,9,No,Physical attack
+405,Soul Chopper,30,3,0,9,No,INT-penetrating extra strong dark attack on one foe. 10% chance of Instant Death.
+406,Soul Core Attack,30,2,0,6,No,DEF-penetrating strong Earth attack on one foe.
+407,Soul Digitalization,25,3,95,1,No,Magic attack
+408,Soul Digitalization,25,3,90,1,No,Magic attack
+409,Speed Break,6,1,0,1,Yes,Reduces SPD of one enemy by 10%.
+410,Speed Break Field,20,1,0,1,Yes,Reduces SPD of all enemies by 10%.
+411,Speed Charge,6,1,0,1,Yes,Increases SPD of one member by 10%.
+412,Speed Charge Field,20,1,0,1,Yes,Increases SPD of all battle members by 10%.
+413,Speed Star,15,2,90,3,No,Physical attack
+414,Spider Shooter,15,2,30,8,No,4 physical attacks
+415,Spiking Strike,20,2,0,2,No,DEF-penetrating medium Plant attack on one foe. Tends to critical more often.
+416,Spinning Needle,10,2,45,5,No,Physical attak
+417,Spiral Blow,10,2,90,5,No,Physical attack
+418,Spiral Masquerade,25,2,30,9,No,4 physical attacks
+419,Spiral Masquerade,25,2,30,9,No,4 physical attacks
+420,Spiral Sword,15,2,110,7,No,Physical attack
+421,Spiral Twister,5,3,55,8,No,Magic attack
+422,Spirit Drain,3,3,40,1,Yes,Magic attack
+423,Spitfire Blast,5,2,35,8,No,Physical attack
+424,Starlight Explosion,20,3,90,3,No,Magic attack
+425,Starlight Velocity,20,2,130,3,No,Physical attack
+426,Status Barrier,16,1,0,1,Yes,Make one member immune to all status effects.
+427,Sticker Blade,10,2,25,9,No,3-5 physical attacks
+428,Sticky Net,5,2,65,2,No,Physical attack
+429,Strike of the Seven Stars,20,3,15,3,No,7 magic attacks
+430,Strike Roll,20,2,140,1,No,Physical attack
+431,Sub-zero Ice Punch,10,2,80,4,No,Physical attack
+432,Summon,5,5,0,1,No,Fixed damage of 100 to one foe. 30% chance of increasing INT by 10%.
+433,Sunshine Beam,10,3,80,3,No,Magic attack
+434,Super Bubble Blow,2,3,35,4,No,Magic attack
+435,Super Shocker,5,3,60,7,No,Magic attack
+436,Super Stinky Jet,10,3,20,6,No,Magic attack
+437,Supersonic Voice,30,3,0,5,No,INT-penetrating extra strong Wind attack on one foe. 20% chance of inflicting Bug.
+438,Superstar Uppercut,15,2,110,3,No,Physical attack
+439,Support End,10,3,30,3,Yes,Magic attack
+440,Supreme Cannon,30,3,0,4,No,INT-penetrating strong Water attack on one foe.
+441,Supreme Cannon,30,3,95,4,No,Magic attack
+442,Symphony Crusher,20,3,0,1,No,INT-penetrating medium Neutral attack on one foe.
+443,Table Flip,25,2,100,6,No,Physical attack
+444,Tail Hammer,10,2,85,6,No,Physical attack
+445,Taizoukai Mandala,20,3,70,9,No,Magic attack
+446,Talisman of Light,15,3,105,9,No,Magic attack
+447,Tearing Shot,5,3,65,4,No,Magic attack
+448,Terra Force,20,2,90,8,No,Physical attack
+449,Terrier Tornado,5,3,20,5,No,Magic attack
+450,Terrors Cluster,20,2,125,7,No,Physical attack
+451,Texture Blow,10,2,40,5,Yes,Physical attack
+452,The King of Fists,15,2,55,5,No,1-3 physical attacks
+453,The Ray of Victory,25,2,100,3,No,Physical attack
+454,Thorn Whip,20,2,120,2,No,Physical attack
+455,Thousand Fists,25,2,15,5,No,8 physical attacks
+456,Thunder Cloud,5,3,30,7,No,2 magic attacks
+457,Thunder Cloud II,10,3,75,7,No,Magic attack
+458,Thunder Fall I,4,2,30,10,Yes,Physical attack
+459,Thunder Fall II,7,2,45,10,Yes,Physical attack
+460,Thunder Fall III,10,2,75,10,Yes,Physical attack
+461,Tidal Wave,15,3,65,4,No,Magic attack
+462,Tomahawk Stinger,20,2,130,1,No,Physical attack
+463,Top Gun,15,3,110,5,No,Magic attack
+464,Transcendent Sword,30,2,115,8,No,Physical attack
+465,Transcendent Sword,30,2,130,8,No,Physical attack
+466,Tri-Horn Attack,15,2,150,6,No,Physical attack
+467,Trick or Treat,15,2,100,1,No,Physical attack
+468,Trident Revolver,15,2,40,8,No,3 physical attacks
+469,Trident Saber,15,2,40,1,No,3 physical attacks
+470,Trump Sword,20,3,35,1,No,4 magic attacks
+471,Turbo Stinger,10,2,25,7,No,4 physical attacks
+472,Twenty Dive,5,2,75,1,No,Physical attack
+473,Ultimate Flare,20,2,90,8,No,3 physical attacks
+474,Ultimate Ouryuken,50,2,0,1,No,DEF-penetrating extra strong Neutral attack on one foe.
+475,Unidentified Flying Kiss,15,3,95,9,No,Magic attack
+476,V-Nova Blast,10,2,105,8,No,Physical attack
+477,Vantheon,10,2,15,1,No,4-8 physical attacks
+478,Vee Laser,10,2,95,3,No,Physical attack
+479,Veemon Headbutt,5,2,75,1,No,Physical attack
+480,Venom Infusion,20,2,135,9,No,Physical attack
+481,Venom Trap,10,2,40,2,Yes,Physical attack
+482,Victory Sword,25,2,65,5,No,2 physical attacks
+483,Volcanic Driver,20,2,130,8,No,Physical attack
+484,Volcanic Strike,10,2,95,8,No,Physical attack
+485,Vortex Penetration,35,2,0,4,No,DEF-penetrating strong Water attack on one foe. Always hits.
+486,Vulcan Crusher,30,2,145,6,No,Physical attack
+487,Vulcan's Hammer,15,2,115,7,No,Physical attack
+488,Waltz's End,25,2,35,1,No,3 physical attacks
+489,Weltgeist,15,1,0,1,No,Nullify all received damage until the next turn
+490,Will-o'-Wisp,10,3,30,8,No,Magic attack
+491,Will-O'-Wisp Slash,20,2,70,8,No,2 physical attacks
+492,Wind Claw I,3,2,65,5,Yes,Physical attack
+493,Wind Claw II,6,2,85,5,Yes,Physical attack
+494,Wind Claw III,9,2,105,5,Yes,Physical attack
+495,Wind Cutter Sword,15,2,40,5,No,3 physical attacks
+496,Winning Knuckle,15,2,115,1,No,Physical attack
+497,Wolf Claw,15,2,120,1,No,Physical attack
+498,Wolkenapalm I,3,2,65,8,Yes,Physical attack
+499,Wolkenapalm II,6,2,85,8,Yes,Physical attack
+500,Wolkenapalm III,9,2,105,8,Yes,Physical attack
+501,Wyvern's Breath,25,2,110,5,No,Physical attack
+502,X-Aura,25,1,0,1,Yes,Restores HP for all party members.
+503,X-Heal,8,1,0,1,Yes,Restores HP for one party member.
+504,Zwei Glanze,20,2,150,1,No,Physical attack
+505,Zwei Sieger,10,2,90,3,No,Physical attack
